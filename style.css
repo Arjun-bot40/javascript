@@ -1,0 +1,45 @@
+*{
+	margin: 0;
+	padding: 0;
+	background:url(pic.png);
+	background-size: cover ;
+	font-family: monospace;
+	font-size: 20px;
+}
+.bg{
+	background:url(pic.png);
+	background-size: cover ;
+	
+}
+
+.login{
+	margin-top: 20%;
+	color: yellow;
+	font-size: 52px;
+	background-color: black;
+	margin-bottom: 10px;
+}
+
+.inputs{
+	background: whitesmoke;
+	border: none;
+	border-radius: 5px;
+	height: 25px;
+	width: 275px;
+}
+.submit{
+	background: skyblue;
+	color: red;
+	width: 275px;
+	border: none;
+	border-radius: 5px;
+	margin-bottom: 10px;
+}
+.succes{
+	background: url(pic.png);
+	background-size: cover ;
+	text-align: center;
+	font-size: 50px;
+	color: yellow;
+	margin-top: 20%;
+}
